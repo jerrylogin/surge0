@@ -33,6 +33,7 @@ USER-AGENT,TencentMidasConnect*
 DOMAIN-SUFFIX,vv.video.qq.com
 
 # > Youku
+DOMAIN-SUFFIX,youku.com
 IP-CIDR,106.11.0.0/16,no-resolve
 
 USER-AGENT,*QQMusic*
