@@ -1,17 +1,5 @@
 DOMAIN-SUFFIX,ipip.net
 
-// iQIYI
-DOMAIN-SUFFIX,iqiyi.com
-USER-AGENT,QIYI*
-USER-AGENT,iQiYi*
-DOMAIN-KEYWORD,qiyi
-DOMAIN-SUFFIX,qy.net
-DOMAIN-SUFFIX,youku.com
-
-// xiami
-DOMAIN-SUFFIX,xiami.com
-DOMAIN-SUFFIX,xiami.net
-
 # Domestic
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,12306.com
