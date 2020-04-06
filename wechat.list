@@ -2,6 +2,6 @@ USER-AGENT,WeChat*
 USER-AGENT,MicroMessenger*
 DOMAIN-SUFFIX,weixin.qq.com
 PROCESS-NAME,WeChat
-IP-CIDR,203.205.128.0/19,DIRECT,no-resolve
-IP-CIDR,203.205.238.0/23,DIRECT,no-resolve
-IP-CIDR,211.152.154.0/23,DIRECT,no-resolve
+IP-CIDR,203.205.128.0/19,no-resolve
+IP-CIDR,203.205.238.0/23,no-resolve
+IP-CIDR,211.152.154.0/23,no-resolve
